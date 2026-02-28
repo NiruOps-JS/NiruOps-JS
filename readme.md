@@ -3,9 +3,9 @@
   
   <br><br>
 
-  <img src="https://github.com/bw2186941-beep.png" width="30%">
+  <img src="https://github.com/niru-alternative.png" width="30%">
   
-  # 👋 Hi, I'm Niru.
+  # Hi, I'm Niru.
 
   ### 🛠️ I break things to learn how they work.
 
