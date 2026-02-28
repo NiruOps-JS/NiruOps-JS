@@ -3,7 +3,7 @@
   
   <br><br>
 
-  <img src="https://github.com/bw2186941-beep.png" width="10%">
+  <img src="https://github.com/bw2186941-beep.png" width="30%">
   
   # 👋 Hi, I'm Niru.
 
