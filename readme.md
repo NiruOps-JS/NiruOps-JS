@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/img.png" width="100%">
+  <img src="img/NIRUUUU.jpg" width="100%">
   
   <br><br>
 
