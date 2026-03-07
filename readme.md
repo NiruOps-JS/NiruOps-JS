@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="img/NIRUUUU.jpg" width="100%">
+  <img src="https://github.com/NiruOps-JS/NiruOps-JS/blob/main/img/NIRUUUU.jpg?raw=true" width="100%">
   
   <br><br>
 
-  <img src="https://github.com/NiruOps-JS/NiruOps-JS/blob/main/img/NIRUUUU.jpg?raw=true" width="30%">
+  <img src="https://github.com/niru-alternative.png" width="30%">
   
   # Hi, I'm Niru.
 
